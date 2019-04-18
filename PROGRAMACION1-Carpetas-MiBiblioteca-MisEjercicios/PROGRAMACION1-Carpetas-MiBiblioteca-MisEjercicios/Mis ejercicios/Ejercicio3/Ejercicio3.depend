@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554321087 source:c:\users\cuent\onedrive\escritorio\ejercicio3\funciones.c
+
+1554337147 source:c:\users\cuent\onedrive\escritorio\ejercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+

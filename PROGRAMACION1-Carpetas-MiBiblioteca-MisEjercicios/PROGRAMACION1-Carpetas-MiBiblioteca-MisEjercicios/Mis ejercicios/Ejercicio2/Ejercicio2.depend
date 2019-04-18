@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1554321087 source:c:\users\cuent\onedrive\escritorio\ejercicio2\funciones.c
+
+1554336290 source:c:\users\cuent\onedrive\escritorio\ejercicio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554320285 c:\users\cuent\onedrive\escritorio\ejercicio2\funciones.h
+
